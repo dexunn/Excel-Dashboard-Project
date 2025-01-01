@@ -1,0 +1,1 @@
+Cleaned and prepared datasets using Microsoft Excel (utilised functions such as VLOOKUP, PivotTables, and conditional formatting) and designed an interactive dashboard to visualise key insights effectively. Demonstrated strong skills in data cleaning, organisation, and visualisation.
